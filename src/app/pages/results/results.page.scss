@@ -1,0 +1,74 @@
+ion-content {
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.results-container {
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+}
+
+ion-card {
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+ion-card-header {
+  background: #0d47a1;
+  color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 10px;
+}
+
+ion-card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+ion-card-content {
+  background: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 0;
+}
+
+.results-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.results-table th, .results-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.results-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.team-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.team-flag {
+  width: 40px; /* Fixed width */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 10px;
+  border-radius: 5px;
+}
+
+.team-name {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #333;
+}

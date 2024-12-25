@@ -1,0 +1,290 @@
+[
+ {
+   "Depth of the Campaign": "F",
+   "Team": "France",
+   "Matches Played": 7,
+   "Wins": 5,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 16
+ },
+ {
+   "Depth of the Campaign": "F",
+   "Team": "Argentina",
+   "Matches Played": 7,
+   "Wins": 4,
+   "Draws": 2,
+   "Losses": 1,
+   "Points": 14
+ },
+ {
+   "Depth of the Campaign": "3P",
+   "Team": "Morocco",
+   "Matches Played": 7,
+   "Wins": 3,
+   "Draws": 2,
+   "Losses": 2,
+   "Points": 11
+ },
+ {
+   "Depth of the Campaign": "3P",
+   "Team": "Croatia",
+   "Matches Played": 7,
+   "Wins": 2,
+   "Draws": 4,
+   "Losses": 1,
+   "Points": 10
+ },
+ {
+   "Depth of the Campaign": "QF",
+   "Team": "Netherlands",
+   "Matches Played": 5,
+   "Wins": 3,
+   "Draws": 2,
+   "Losses": 0,
+   "Points": 11
+ },
+ {
+   "Depth of the Campaign": "QF",
+   "Team": "England",
+   "Matches Played": 5,
+   "Wins": 3,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 10
+ },
+ {
+   "Depth of the Campaign": "QF",
+   "Team": "Brazil",
+   "Matches Played": 5,
+   "Wins": 3,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 10
+ },
+ {
+   "Depth of the Campaign": "QF",
+   "Team": "Portugal",
+   "Matches Played": 5,
+   "Wins": 3,
+   "Draws": 0,
+   "Losses": 2,
+   "Points": 9
+ },
+ {
+   "Depth of the Campaign": "R16",
+   "Team": "Japan",
+   "Matches Played": 4,
+   "Wins": 2,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 7
+ },
+ {
+   "Depth of the Campaign": "R16",
+   "Team": "Australia",
+   "Matches Played": 4,
+   "Wins": 2,
+   "Draws": 0,
+   "Losses": 2,
+   "Points": 6
+ },
+ {
+   "Depth of the Campaign": "R16",
+   "Team": "Senegal",
+   "Matches Played": 4,
+   "Wins": 2,
+   "Draws": 0,
+   "Losses": 2,
+   "Points": 6
+ },
+ {
+   "Depth of the Campaign": "R16",
+   "Team": "Switzerland",
+   "Matches Played": 4,
+   "Wins": 2,
+   "Draws": 0,
+   "Losses": 2,
+   "Points": 6
+ },
+ {
+   "Depth of the Campaign": "R16",
+   "Team": "Spain",
+   "Matches Played": 4,
+   "Wins": 1,
+   "Draws": 2,
+   "Losses": 1,
+   "Points": 5
+ },
+ {
+   "Depth of the Campaign": "R16",
+   "Team": "USA",
+   "Matches Played": 4,
+   "Wins": 1,
+   "Draws": 2,
+   "Losses": 1,
+   "Points": 5
+ },
+ {
+   "Depth of the Campaign": "R16",
+   "Team": "Poland",
+   "Matches Played": 4,
+   "Wins": 1,
+   "Draws": 1,
+   "Losses": 2,
+   "Points": 4
+ },
+ {
+   "Depth of the Campaign": "R16",
+   "Team": "Korea Republic",
+   "Matches Played": 4,
+   "Wins": 1,
+   "Draws": 1,
+   "Losses": 2,
+   "Points": 4
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Ecuador",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 4
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Germany",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 4
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Tunisia",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 4
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Cameroon",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 4
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Uruguay",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 4
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Mexico",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 4
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Belgium",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 1,
+   "Losses": 1,
+   "Points": 4
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Ghana",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 0,
+   "Losses": 2,
+   "Points": 3
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Saudi Arabia",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 0,
+   "Losses": 2,
+   "Points": 3
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Iran",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 0,
+   "Losses": 2,
+   "Points": 3
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Costa Rica",
+   "Matches Played": 3,
+   "Wins": 1,
+   "Draws": 0,
+   "Losses": 2,
+   "Points": 3
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Denmark",
+   "Matches Played": 3,
+   "Wins": 0,
+   "Draws": 1,
+   "Losses": 2,
+   "Points": 1
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Serbia",
+   "Matches Played": 3,
+   "Wins": 0,
+   "Draws": 1,
+   "Losses": 2,
+   "Points": 1
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Wales",
+   "Matches Played": 3,
+   "Wins": 0,
+   "Draws": 1,
+   "Losses": 2,
+   "Points": 1
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Canada",
+   "Matches Played": 3,
+   "Wins": 0,
+   "Draws": 0,
+   "Losses": 3,
+   "Points": 0
+ },
+ {
+   "Depth of the Campaign": "GR",
+   "Team": "Qatar",
+   "Matches Played": 3,
+   "Wins": 0,
+   "Draws": 0,
+   "Losses": 3,
+   "Points": 0
+ }
+]

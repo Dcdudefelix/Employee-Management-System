@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Results</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="results-container">
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title>Quarter-Final Results</ion-card-title>
+      </ion-card-header>
+      <ion-card-content>
+        <table class="results-table">
+          <thead>
+            <tr>
+              <th>Team (Country)</th>
+              <th>Played</th>
+              <th>Won</th>
+              <th>Drawn</th>
+              <th>Lost</th>
+              <th>Pts</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let result of results">
+              <td class="team-info">
+                <img [src]="getFlagFilename(result.Team)" alt="{{ result.Team }}" class="team-flag">
+                <span class="team-name">{{ result.Team }}</span>
+              </td>
+              <td>{{ result['Matches Played'] }}</td>
+              <td>{{ result.Wins }}</td>
+              <td>{{ result.Draws }}</td>
+              <td>{{ result.Losses }}</td>
+              <td>{{ result.Points }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </ion-card-content>
+    </ion-card>
+  </div>
+</ion-content>

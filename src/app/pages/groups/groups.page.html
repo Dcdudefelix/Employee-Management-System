@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Groups</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-card *ngFor="let group of groups">
+      <ion-card-header>
+        <ion-card-title>{{ group.name }}</ion-card-title>
+      </ion-card-header>
+      <ion-card-content>
+        <ion-list>
+          <ion-item *ngFor="let team of group.teams">
+            <ion-avatar slot="start">
+              <img [src]="'assets/images/flags/' + team.toLowerCase().replace(' ', '_') + '.png'" alt="{{ team }}">
+            </ion-avatar>
+            <ion-label>{{ team }}</ion-label>
+          </ion-item>
+        </ion-list>
+      </ion-card-content>
+    </ion-card>
+  </ion-list>
+</ion-content>

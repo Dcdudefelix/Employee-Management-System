@@ -1,0 +1,7 @@
+{
+  "name": "WorldCupResults",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
